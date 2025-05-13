@@ -30,6 +30,7 @@ url: "https://marlanperumal.github.io" # the base hostname & protocol for your s
 twitter_username: MarlanPerumal
 github_username:  marlanperumal
 linkedin_username: marlan-perumal
+bluesky_username: marlanperumal
 
 # Build settings
 theme: minima
