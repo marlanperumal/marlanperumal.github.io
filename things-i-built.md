@@ -9,4 +9,4 @@ permalink: /things-i-built/
 - [PDF Statement Reader](https://github.com/marlanperumal/pdf_statement_reader)
 - [PDF Table Extractor](https://pdf-table-extractor.stuntedchicken.co.za)
 - [Eggcell Data Analysis](https://eggcell.stuntedchicken.co.za)
-- [Eggbaskets Financial Planning](https://eggcell.stuntedchicken.co.za)
+- [Eggbaskets Financial Planning](https://eggbaskets.stuntedchicken.co.za)

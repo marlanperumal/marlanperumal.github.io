@@ -7,7 +7,7 @@ tags: ai coding games
 
 In the last week at my previous job at Eighty20 Consulting, my partner set up a cute little game where she'd send me some thoughts and ideas about the end of my time there. I could choose, whether they would be funny, mindful, kind, naught or academic. One of the "naughty" ideas was
 
-> Hide random notes around the office in places where they'll only be found weeks or even months later. Write things like 'I know what you just did' or 'It wasn't like this when \[your name\] was here
+> Hide random notes around the office in places where they'll only be found weeks or even months later. Write things like 'I know what you just did' or 'It wasn't like this when \[your name\] was here'
 
 ![post-it](/assets/images/Pasted image 20250513162820.png)
 
